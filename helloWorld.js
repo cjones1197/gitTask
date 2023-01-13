@@ -1,2 +1,2 @@
-let printOut = "Git is Awesome!";
-console.log(printOut);
+let userInput = prompt("What would you like to print out?");
+console.log(userInput);
